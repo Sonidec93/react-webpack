@@ -1,0 +1,23 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "ground up react project built with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonidec93/react-webpack.git"
+  },
+  "author": "Mukul Kumra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonidec93/react-webpack/issues"
+  },
+  "homepage": "https://github.com/Sonidec93/react-webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
